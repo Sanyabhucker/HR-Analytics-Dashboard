@@ -14,4 +14,4 @@ Majority earning under 5K are leaving
 Built using Microsoft Power BI with interactive filters for HR and Sales departments.
 
 screenshots :
-https://github.com/Sanyabhucker/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png?raw=true
+https://github.com/Sanyabhucker/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
