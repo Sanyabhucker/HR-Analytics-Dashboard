@@ -1,8 +1,11 @@
  An HR Analytics Dashboard
  
 This dashboard provides a comprehensive view of employee attrition across key dimensions:
+
 📊 Attrition by Age, Gender, Education & Salary Slab
+
 👔 Job Role-wise attrition breakdown
+
 📅 Trends by Years at Company
 
 Key Insights:
