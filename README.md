@@ -11,8 +11,11 @@ This dashboard provides a comprehensive view of employee attrition across key di
 Key Insights:
 
 16.1% attrition rate out of 1,470 employees
+
 Highest attrition in the 26-35 age group (116 employees)
+
 Laboratory Technicians & Sales Executives have the most exits
+
 Majority earning under 5K are leaving
 
 Built using Microsoft Power BI with interactive filters for HR and Sales departments.
